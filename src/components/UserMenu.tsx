@@ -397,11 +397,11 @@ export const UserMenu: React.FC = () => {
             <span className='font-medium'>登出</span>
           </button>
 
-{/*           {/* 分割线 */}
-          <div className='my-1 border-t border-gray-200 dark:border-gray-700'></div>
+          {/* 分割线 */}
+          {/* <div className='my-1 border-t border-gray-200 dark:border-gray-700'></div> */}
 
           {/* 版本信息 */}
-          <button
+          {/* <button
             onClick={() =>
               window.open('https://github.com/katelya77/KatelyaTV', '_blank')
             }
@@ -423,8 +423,8 @@ export const UserMenu: React.FC = () => {
                   ></div>
                 )}
             </div>
-          </button>
-        </div> */}
+          </button> */}
+        </div>
       </div>
     </>
   );
