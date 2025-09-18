@@ -1,3 +1,5 @@
+`REX 250916` 根据文档在 cf 部署成功，功能已测试非常正常，注释了版本检测、版本跳转，不可以删除、不可以更新，长期保留使用。
+
 <div align="center">
   <img src="public/logo.png" alt="KatelyaTV Logo" width="128" />
 
